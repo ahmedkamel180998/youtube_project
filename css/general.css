@@ -11,3 +11,13 @@ html {
 body {
   font-family: "Roboto", "Arial", sans-serif;
 }
+
+button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.container {
+  display: flex;
+}
