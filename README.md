@@ -1,6 +1,6 @@
 # 📺 YouTube Mimic Project
 
-**✨ Live Preview:** [**Youtube Mimic**](https://youtube-mimic-project.netlify.app/) ✨
+# **✨ Live Preview:** [**Youtube Mimic**](https://youtube-mimic-project.netlify.app/) ✨
 
 ---
 
