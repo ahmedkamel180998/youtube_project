@@ -1,6 +1,6 @@
 # 📺 YouTube Mimic Project
 
-# **✨ Live Preview:** [**Youtube Mimic**](https://youtube-mimic-project.netlify.app/) ✨
+## **✨ Live Preview:** [**Youtube Mimic**](https://youtube-mimic-project.netlify.app/) ✨
 
 ---
 
@@ -27,6 +27,7 @@ This project is a front-end implementation aiming to replicate the visual layout
         *   Video stats (views, upload time).
 *   💪 **Flexbox Layout:**
     *   The core layout (header sections, sidebar + main content, video container) is built using CSS Flexbox.
+---
 
 ### Using:
 
