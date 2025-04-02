@@ -141,6 +141,9 @@ header {
   line-height: 2rem;
   font-weight: 400;
   color: #030303;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .active {
@@ -163,4 +166,17 @@ header {
   border-bottom: 1px solid #e5e5e5;
   padding: 12px 0;
   margin: 12px 0;
+}
+
+.section_three-nav-heading {
+  font-size: 1.6rem;
+  color: #606060;
+  font-weight: 500;
+  padding: 6px 12px 4px;
+}
+
+.channel-img {
+  width: 24px;
+  height: auto;
+  border-radius: 50%;
 }
